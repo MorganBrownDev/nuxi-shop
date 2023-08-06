@@ -1,7 +1,7 @@
 <template>
     <div>
         <Head>
-            <Title>NUXI Shop Product | {{ product.title }}</Title>
+            <Title>NUXI Product | {{ product.title }}</Title>
             <Meta name="description" :content="product.description" />
         </Head>
 

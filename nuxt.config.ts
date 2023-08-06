@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: 'NUXIY',
+      title: 'NUXI Shop',
       meta: [
         {
           name: 'description', content: 'NUXIY Ecommerce Store'
